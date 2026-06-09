@@ -5,7 +5,7 @@ I’m an **Product Builder** focused on edtech and welltech. I like to ship prac
 ### 🛠️ Featured Projects
 - **[co⸺span](https://co-span.com)** — An extremely token-efficient agent harness for real-world workflows. *(Currently in Closed Beta)*
 - **[safe-youtube](https://github.com/noemit/safe-youtube)** — An open-source YouTube wrapper that gives parents the parental control tools they actually want.
-- **[Habit.am](https://habit.am)** — *Habits* dont matter, only one *habit* does: introspection. Habit.am is a mental health reflection tool that started pre-AI and evolved into my first Applied AI product that helps you reflect through simple multiple choice questions that lead to insights, reflections, worksheets and more activitives. 
+- **[Habit.am](https://habit.am)** — *Habits* dont matter, only one *habit* does: introspection. Habit.am is a mental health reflection tool that started pre-AI and evolved into my first Applied AI product that helps you reflect through simple multiple choice questions that lead to insights, reflections, mantras and more. 
 - **[leash](https://github.com/noemit/leash)** — A (vibecoded) mobile bridge that connects your cloud harness to your local Pi agent.
 
 ### 💻 Stack & Toolkit
