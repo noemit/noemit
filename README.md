@@ -21,7 +21,7 @@ I'm a **Technical Builder** focused on prototyping, experimentation, and product
 - Not all outcomes are measurable, especially negative externalities. I wrote about this [here](https://noemititarenco.com/blog/how-good-products-have-unintended-consequences/).
 
 ### 🤝 Let's Connect
-- **Low effort posting:** I'm most active on X at [@NoemiTitarenco](https://x.com/NoemiTitarenco)
+- I'm most active on X at [@NoemiTitarenco](https://x.com/NoemiTitarenco)
 - **Sometimes I blog** over at [noemititarenco.com/](https://noemititarenco.com/) 
 - **Looking to collaborate on:** Open-source, AI tools, EdTech, Mental Health Tools, anything fringe/niche that no self-respecting investor would buy into.
 - **Ask me about:** Implementing AI in your teams, product strategy for niche markets, and behavior-driven design.
