@@ -1,6 +1,6 @@
 ## Hi, I’m Noemi 👋
 
-I’m an **Product Builder** focused on edtech and welltech. I like to ship practical products for niche markets. I'm also passionate about helping non-technical folks get into building software.
+I'm a **Technical Builder** focused on prototyping, experimentation, and product-market fit. I trained as an engineer and stayed hands-on, because the part of the job I love most is making the thing. I do my best work on a small technical team where shipping is the point, not a phase you delegate away.
 
 ### 🛠️ Featured Projects
 - **[co⸺span](https://co-span.com)** — An extremely token-efficient agent harness for real-world workflows. *(Currently in Closed Beta)*
