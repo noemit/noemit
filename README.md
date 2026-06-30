@@ -13,6 +13,7 @@ I'm a **Technical Builder** focused on prototyping, experimentation, and product
 ### 💻 Stack & Toolkit
 - **Engineering:** Full-stack & Cloud (AWS, GCP). Backend infrastructure + web frontends (**Next.js**, **React**). I build a lot of PWAs
 - **Product:** Scoping AI products, multi-modal user research, continous discovery, shipping lean MVPs, and building intuitive on-ramps for non-technical users.
+- **Data Analysis:** Python, charting, and data communication. *It's not enough to understand the data you have, you also have to know what the data you don't have could be saying.*
 - **Agentic Coding:** Currently using Kimi K2.6 + Pi + Ghostty 
 - 
 ### ⏳ Philosophy
