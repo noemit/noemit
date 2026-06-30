@@ -3,7 +3,7 @@
 I'm a **Technical Builder** focused on prototyping, experimentation, and product-market fit. I trained as an engineer and stayed hands-on, because while being in the weeds is difficult, I find the signal tends to be in the weeds - that is, the weeds of the data, the product, or the user experience. I love to build, not just for building sake, but because it inspires a better strategy.
 
 ### 🛠️ Featured Projects
-- **[safe-youtube](https://github.com/noemit/safe-youtube)** — An open-source YouTube wrapper that gives parents the parental control tools they actually want.
+- **[safe-youtube](https://github.com/noemit/safe-youtube)** — An open-source YouTube wrapper that gives parents the parental control tools they actually want. Built it because I needed it. My kids don't use an ipad without it.
 - **[Habit.am](https://habit.am)** — *Habits* dont matter, only one *habit* does: introspection. Habit.am is a mental health reflection tool that started pre-AI and evolved into my first Applied AI product that helps you reflect through simple multiple choice questions that lead to insights, reflections, mantras and more. 
 - **[leash](https://github.com/noemit/leash)** — A (vibecoded) mobile bridge that connects your cloud harness to your local Pi agent.
 - **[tardigrade](https://github.com/noemit/tardigrade)** — An open-source AI agent that drives a real browser to audit any web app like a user and score it against rubrics, with a screenshot behind every finding. Works with any OpenAI-compatible model.
