@@ -11,7 +11,7 @@ I'm a **Technical Builder** focused on prototyping, experimentation, and product
 - **[co⸺span](https://co-span.com)** — TBD - Coming soon
 
 ### 💻 Stack & Toolkit
-- **Engineering:** Full-stack & Cloud (AWS, GCP). Backend infrastructure + web frontends (**Next.js**, **React**). I love PWAs!
+- **Engineering:** Full-stack & Cloud (AWS, GCP). Backend infrastructure + web frontends (**Next.js**, **React**). I build a lot of PWAs
 - **Product:** Scoping AI products, multi-modal user research, continous discovery, shipping lean MVPs, and building intuitive on-ramps for non-technical users.
 - **Agentic Coding:** Currently using Kimi K2.6 + Pi + Ghostty 
 - 
