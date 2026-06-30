@@ -3,7 +3,7 @@
 I'm a **Technical Builder** focused on prototyping, experimentation, and product-market fit. I trained as an engineer and stayed hands-on, because while being in the weeds is difficult, I find the signal tends to be in the weeds - of the data, the product, or the user experience. I love to build, not just for building sake, but because it inspires a better strategy.
 
 ### 🛠️ Featured Projects
-- **[co⸺span](https://co-span.com)** — An extremely token-efficient agent harness for real-world workflows. *(Currently in Closed Beta)*
+- **[co⸺span](https://co-span.com)** — TBD - Coming soon
 - **[safe-youtube](https://github.com/noemit/safe-youtube)** — An open-source YouTube wrapper that gives parents the parental control tools they actually want.
 - **[Habit.am](https://habit.am)** — *Habits* dont matter, only one *habit* does: introspection. Habit.am is a mental health reflection tool that started pre-AI and evolved into my first Applied AI product that helps you reflect through simple multiple choice questions that lead to insights, reflections, mantras and more. 
 - **[leash](https://github.com/noemit/leash)** — A (vibecoded) mobile bridge that connects your cloud harness to your local Pi agent.
