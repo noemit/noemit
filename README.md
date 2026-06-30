@@ -23,7 +23,7 @@ I'm a **Technical Builder** focused on prototyping, experimentation, and product
 ### 🤝 Let's Connect
 - I'm most active on X at [@NoemiTitarenco](https://x.com/NoemiTitarenco)
 - **Sometimes I blog** over at [noemititarenco.com/](https://noemititarenco.com/) 
-- **Looking to collaborate on:** Open-source, AI tools, EdTech, Mental Health Tools, anything fringe/niche that no self-respecting investor would buy into.
+- **Looking to collaborate on:** Open-source, AI tools, EdTech, Mental Health Tools.
 - **Ask me about:** Implementing AI in your teams, product strategy for niche markets, and behavior-driven design.
 - **Contact:** [noemititarenco.com/contact](https://noemititarenco.com/contact)
 
