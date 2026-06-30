@@ -1,6 +1,6 @@
 ## Hi, I’m Noemi 👋
 
-I'm a **Technical Builder** focused on prototyping, experimentation, and product-market fit. I trained as an engineer and stayed hands-on, because the part of the job I love most is making the thing. I do my best work on a small technical team where shipping is the point, not a phase you delegate away.
+I'm a **Technical Builder** focused on prototyping, experimentation, and product-market fit. I trained as an engineer and stayed hands-on, because while being in the weeds is difficult, I find the signal tends to be in the weeds - of the data, the product, or the user experience. I love to build, not just for building sake, but because it inspires a better strategy.
 
 ### 🛠️ Featured Projects
 - **[co⸺span](https://co-span.com)** — An extremely token-efficient agent harness for real-world workflows. *(Currently in Closed Beta)*
