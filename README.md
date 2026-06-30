@@ -18,7 +18,6 @@ I'm a **Technical Builder** focused on prototyping, experimentation, and product
 - 
 ### ⏳ Philosophy
 - The process changes the product. I wrote about this [here](https://noemititarenco.com/blog/the-luddites-were-actually-right-a-story-about-wool/).
-- Automation is not a 1:1 upgrade: we gain speed and access, and we also change quality, behavior, and outcomes. The whole system changes.
 - Not all outcomes are measurable, especially negative externalities. I wrote about this [here](https://noemititarenco.com/blog/how-good-products-have-unintended-consequences/).
 
 ### 🤝 Let's Connect
