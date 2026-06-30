@@ -7,6 +7,8 @@ I’m an **Product Builder** focused on edtech and welltech. I like to ship prac
 - **[safe-youtube](https://github.com/noemit/safe-youtube)** — An open-source YouTube wrapper that gives parents the parental control tools they actually want.
 - **[Habit.am](https://habit.am)** — *Habits* dont matter, only one *habit* does: introspection. Habit.am is a mental health reflection tool that started pre-AI and evolved into my first Applied AI product that helps you reflect through simple multiple choice questions that lead to insights, reflections, mantras and more. 
 - **[leash](https://github.com/noemit/leash)** — A (vibecoded) mobile bridge that connects your cloud harness to your local Pi agent.
+- **[tardigrade](https://github.com/noemit/tardigrade)** — An open-source AI agent that drives a real browser to audit any web app like a user and score it against rubrics, with a screenshot behind every finding. Works with any OpenAI-compatible model.
+- **[ant-simulation](https://github.com/noemit/ant-simulation)** — An experiment in computational biology: a browser simulation where up to 300 army ants are each an independent LLM agent, blind and navigating by pheromone gradients. Built to push high tokens-per-second (TPS) inference, since every ant decides its move on every tick.
 
 ### 💻 Stack & Toolkit
 - **Engineering:** Full-stack & Cloud (AWS, GCP). Backend infrastructure + web frontends (**Next.js**, **React**). I love PWAs!
