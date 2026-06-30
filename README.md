@@ -14,7 +14,7 @@ I'm a **Technical Builder** focused on prototyping, experimentation, and product
 - **Engineering:** Full-stack & Cloud (AWS, GCP). Backend infrastructure + web frontends (**Next.js**, **React**). I build a lot of PWAs
 - **Product:** Scoping AI products, multi-modal user research, continous discovery, shipping lean MVPs, and building intuitive on-ramps for non-technical users.
 - **Data Analysis:** Python, charting, and data communication. *It's not enough to understand the data you have, you also have to know what the data you don't have could be saying.*
-- **Agentic Coding:** Currently using Kimi K2.6 + Pi + Ghostty 
+- **Agentic Coding:** Setting up dockerized agents, claws, experience with many models (K2.7, GLM-5, Opus-line, OpenAI Models, Gemini offerings, Image generation, etc)
 - 
 ### ⏳ Philosophy
 - The process changes the product. I wrote about this [here](https://noemititarenco.com/blog/the-luddites-were-actually-right-a-story-about-wool/).
