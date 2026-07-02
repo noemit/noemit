@@ -8,6 +8,8 @@ I'm a **Technical Builder** focused on prototyping, experimentation, and product
 - **[leash](https://github.com/noemit/leash)** — A (vibecoded) mobile bridge that connects your cloud harness to your local Pi agent.
 - **[tardigrade](https://github.com/noemit/tardigrade)** — An open-source AI agent that drives a real browser to audit any web app like a user and score it against rubrics, with a screenshot behind every finding. Works with any OpenAI-compatible model.
 - **[ant-simulation](https://github.com/noemit/ant-simulation)** — An experiment in computational biology: a browser simulation where up to 300 army ants are each an independent LLM agent, blind and navigating by pheromone gradients. Built to push high tokens-per-second (TPS) inference, since every ant decides its move on every tick.
+- **[pi-container-links](https://github.com/noemit/pi-container-links)** — A Pi extension that maps container file paths to host paths and renders them as clickable OSC 8 hyperlinks in a Sources widget.
+- **[language-tutor](https://github.com/noemit/language-tutor)** — A personal PWA for translating text and automatically generating flashcards to build vocabulary over time.
 - **[co⸺span](https://co-span.com)** — TBD - Coming soon
 
 ### 💻 Stack & Toolkit
