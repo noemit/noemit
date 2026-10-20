@@ -1,47 +1,33 @@
-## Hi, I’m Noemi
+## Hi, I'm Em
 
-I'm a **Technical Builder** focused on prototyping, experimentation, and product-market fit. I trained as an engineer and stayed hands-on, because while being in the weeds is difficult, I find the signal tends to be in the weeds - that is, the weeds of the data, the product, or the user experience. I love to build, not just for building sake, but because it inspires a better strategy.
+Product strategist who still ships code. I audit products and give teams a clear, opinionated plan: what to build next, and most importantly, what to stop building.
 
-### 🛠️ Featured Projects
-- **[safe-youtube](https://github.com/noemit/safe-youtube)** — An open-source YouTube wrapper that gives parents the parental control tools they actually want. Built it because I needed it. My kids don't use an iPad without it.
-- **[Habit.am](https://habit.am)** — *Habits* dont matter, only one *habit* does: introspection. Habit.am is a mental health reflection tool that started pre-AI and evolved into my first Applied AI product that helps you reflect through simple multiple choice questions that lead to insights, reflections, mantras and more. 
-- **[leash](https://github.com/noemit/leash)** — A (vibecoded) mobile bridge that connects your cloud harness to your local Pi agent.
-- **[tardigrade](https://github.com/noemit/tardigrade)** — An open-source AI agent that drives a real browser to audit any web app like a user and score it against rubrics, with a screenshot behind every finding. Works with any OpenAI-compatible model.
-- **[ant-simulation](https://github.com/noemit/ant-simulation)** — An experiment in computational biology: a browser simulation where up to 300 army ants are each an independent LLM agent, blind and navigating by pheromone gradients. Built to push high tokens-per-second (TPS) inference, since every ant decides its move on every tick.
-- **[pi-container-links](https://github.com/noemit/pi-container-links)** — A Pi extension that maps container file paths to host paths and renders them as clickable OSC 8 hyperlinks in a Sources widget.
-- **[language-tutor](https://github.com/noemit/language-tutor)** — A personal PWA for translating text and automatically generating flashcards to build vocabulary over time.
-- **[co⸺span](https://co-span.com)** — TBD - Coming soon
+Lately I build AI agents, mostly to see where they actually help products and where they don't.
 
-### 💻 Stack & Toolkit
-- **Engineering:** Full-stack & Cloud (AWS, GCP). Backend infrastructure + web frontends (**Next.js**, **React**). I build a lot of PWAs
-- **Product:** Scoping AI products, multi-modal user research, continous discovery, shipping lean MVPs, and building intuitive on-ramps for non-technical users.
-- **Data Analysis:** Python, charting, and data communication. *It's not enough to understand the data you have, you also have to know what the data you don't have could be saying.*
-- **Agentic Coding:** Setting up dockerized agents, claws, experience with many models (K2.7, GLM-5, Opus-line, OpenAI Models, Gemini offerings, Image generation, etc)
-- 
-### ⏳ Philosophy
-- The process changes the product. I wrote about this [here](https://noemititarenco.com/blog/the-luddites-were-actually-right-a-story-about-wool/).
-- Not all outcomes are measurable, especially negative externalities. I wrote about this [here](https://noemititarenco.com/blog/how-good-products-have-unintended-consequences/).
+### Start here
 
-### 🤝 Let's Connect
-- I'm most active on X at [@NoemiTitarenco](https://x.com/NoemiTitarenco)
-- **Sometimes I blog** over at [noemititarenco.com/](https://noemititarenco.com/) 
-- **Looking to collaborate on:** Open-source, AI tools, EdTech, Mental Health Tools.
-- **Ask me about:** Implementing AI in your teams, product strategy for niche markets, and behavior-driven design.
-- **Contact:** [noemititarenco.com/contact](https://noemititarenco.com/contact)
+- **[tardigrade](https://github.com/noemit/tardigrade)**: an AI agent that drives a real browser, audits any web app against UX, functional and conversion rubrics, and backs every finding with evidence.
+- **[leash](https://github.com/noemit/leash)**: chat and build with your local agent from anywhere.
+- **[agent-mode](https://github.com/noemit/agent-mode)**: turn your browser into your agent's playground.
+- **[safe-youtube](https://github.com/noemit/safe-youtube)**: a PWA that lets parents choose exactly which channels and videos their kids can watch. Built because I needed it.
+- **[team-vibecoding](https://github.com/noemit/team-vibecoding)**: turn non-technical teams into vibecoders who optimize their own workflows.
 
----
-⚡ **Fun Fact:** I once drove from LA to Fairbanks, Alaska, and back!
-<!--
-**noemit/noemit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Things I've shipped
 
-Here are some ideas to get you started:
+- **[Daylight](https://noemititarenco.com/daylight)**: a free, offline ChatGPT alternative for macOS. One click to install; the model runs on your own Mac.
+- **[Mustardy](https://noemititarenco.com/mustardy)**: an offline video editor that trims the pauses for you.
+- **[Tenote](https://noemititarenco.com/tenote)**: a tiny Mac notes app that saves plain Markdown files. It cost ten cents in tokens.
+- **[Ember](https://noemititarenco.com/projects/ember)**: a desktop control room for your OpenChamber agents.
+- **[Co—span](https://noemititarenco.com/projects/co-span)**: an AI writing tool where you hold the pen.
+- **[Habit.am](https://noemititarenco.com/projects/prompting-journaling-app)**: a wordless journaling app for emotional check-ins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...c
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How I think
+
+- [The process changes the product](https://noemititarenco.com/blog/the-luddites-were-actually-right-a-story-about-wool/)
+- [Good products have unintended consequences](https://noemititarenco.com/blog/how-good-products-have-unintended-consequences/)
+
+### Work with me
+
+Workshops · Audits · 1:1 product strategy & roadmap help → [noemititarenco.com/contact](https://noemititarenco.com/contact)
+
+Videos on [Em Dash](https://youtube.com/@em-dash-ai) · posts on [X @NoemiTitarenco](https://x.com/NoemiTitarenco) · [LinkedIn](https://www.linkedin.com/in/noemi-product-management/)
