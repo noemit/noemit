@@ -1,8 +1,7 @@
 ## Hi, I'm Em
 
-Product strategist who still ships code. I audit products and give teams a clear, opinionated plan: what to build next, and most importantly, what to stop building.
+I do product strategy and build things.
 
-Lately I build AI agents, mostly to see where they actually help products and where they don't.
 
 ### Start here
 
