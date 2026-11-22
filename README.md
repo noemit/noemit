@@ -5,7 +5,6 @@ Founder · Engineer · Product Leader. I build gamified educational interactives
 ### Start here
 
 - **[ember-bots](https://github.com/noemit/ember-bots)** ([getemberbots.com](https://getemberbots.com)): an open-source bot hub that lets you talk to cute bots who manage tasks for you, from general productivity to brainstorming to coding.
-- **[hearth](https://github.com/noemit/hearth)**: Ember's durable agent harness on Pi Durable.
 - **[tardigrade](https://github.com/noemit/tardigrade)**: an AI agent that drives a real browser, audits any web app against UX, functional and conversion rubrics, and backs every finding with evidence.
 - **[leash](https://github.com/noemit/leash)**: chat and build with your local agent from anywhere.
 - **[agent-mode](https://github.com/noemit/agent-mode)**: turn your browser into your agent's playground.
